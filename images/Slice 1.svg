@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="410px" height="411px" viewBox="0 0 410 411" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path id="path-1" d="M0.06,0 L410,0 L410,411 L0.06,411 L0.06,0 Z"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="002-facebook-logo-button" sketch:type="MSLayerGroup">
+            <mask id="mask-2" sketch:name="Clip 2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-2"></g>
+            <path d="M204.801,0.4 C91.875,0.4 0,92.275 0,205.201 C0,318.119 91.875,410.002 204.801,410.002 C317.719,410.002 409.602,318.119 409.602,205.201 C409.602,92.275 317.734,0.4 204.801,0.4 L204.801,0.4 Z M255.73,212.412 L222.414,212.412 L222.414,331.17 L173.039,331.17 L173.039,212.412 L149.57,212.412 L149.57,170.435 L173.039,170.435 L173.039,143.287 C173.039,123.845 182.277,93.462 222.867,93.462 L259.453,93.603 L259.453,134.345 L232.898,134.345 C228.574,134.345 222.43,136.505 222.43,145.779 L222.43,170.447 L260.047,170.447 L255.73,212.412 Z" id="Fill-1" fill="#DC6868" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

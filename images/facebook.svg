@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path id="path-1" d="M0.00585365854,0 L40,0 L40,40 L0.00585365854,40 L0.00585365854,0 Z"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="002-facebook-logo-button" sketch:type="MSLayerGroup">
+            <mask id="mask-2" sketch:name="Clip 2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-2"></g>
+            <path d="M19.9805854,0.0389294404 C8.96341463,0.0389294404 0,8.98053528 0,19.9709002 C0,30.9604866 8.96341463,39.902871 19.9805854,39.902871 C30.9969756,39.902871 39.9611707,30.9604866 39.9611707,19.9709002 C39.9611707,8.98053528 30.998439,0.0389294404 19.9805854,0.0389294404 L19.9805854,0.0389294404 Z M24.9492683,20.6727007 L21.6989268,20.6727007 L21.6989268,32.2306569 L16.8818537,32.2306569 L16.8818537,20.6727007 L14.5921951,20.6727007 L14.5921951,16.5873479 L16.8818537,16.5873479 L16.8818537,13.9452068 C16.8818537,12.0530414 17.783122,9.09605839 21.743122,9.09605839 L25.3124878,9.10978102 L25.3124878,13.0749392 L22.7217561,13.0749392 C22.2999024,13.0749392 21.7004878,13.2851582 21.7004878,14.1877372 L21.7004878,16.5885158 L25.370439,16.5885158 L24.9492683,20.6727007 Z" id="Fill-1" fill="#DC6868" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>
