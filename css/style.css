@@ -38,6 +38,138 @@ body{
 	border:2px solid #ccc;
 	display: flex;
     flex-direction: column;
+   
+}
+.container-2{
+	width: 90%;
+	height:auto;
+	background-color: #f9f8f4;
+	margin: 0 auto;
+	border:2px solid #ccc;
+	display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding-bottom: 5%;
+}
+.container-inside{
+	width: 90%;
+	height:100%;
+	background-color: #f9f8f4;
+	display: block;
+	margin: 0 auto;
+	border:2px solid #ccc;
+
+}
+.container-sm{
+	width: 90%;
+	height: 45%;
+	background-color: #f9f8f4;
+	display: block;
+	margin: 0 auto;
+	border:2px solid #ccc;
+}
+.container-sm-2{
+	width: 90%;
+	height: auto;
+	background-color: #f9f8f4;
+	margin: 8% auto;
+	border:2px solid #ccc;
+}
+.styleguide{
+	height:80%;
+	max-width: 28%;
+	overflow: hidden;
+	float: left;
+	margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%
+
+}
+
+.styleguide img{
+	width: 87.5%;
+	border:1px #ccc solid;	
+	
+
+}
+
+.collateral{
+	height: 50%;
+	width: 50%;
+	margin:0 auto;
+	overflow: hidden;
+	float:right;
+	margin: 5% 5% 4% 0;
+}
+.businesscard-left{
+	float: left;
+	overflow: hidden;
+
+}
+.businesscard-right{
+	float:right;
+	overflow: hidden;
+}
+
+.businesscards{
+display:flex;
+}
+.businesscards img{
+	width: 100%;
+
+}
+.collateral-2{
+	width: 50%;
+	float:right;
+	overflow: hidden;
+	
+	margin: 0 5% 5% 5%;
+}
+.postcard-left{
+	float: left;
+}
+.postcard-right{
+	float: right;
+	margin-top: 30%;
+}
+.packaging{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+	margin: 5%;
+	width: 100%;
+	
+}
+.packaging img{
+	flex-grow:1;
+	margin-left: 2%;
+	justify-content:space-between;	
+}
+.inside-container-sm-2{
+	border:2px #ccc solid;
+	width: 90%;
+	margin: 5%;
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+
+.packaging-2{
+	margin:5%;
+}
+.packaging-2 img{
+	width: 100%;
+}
+.title-3{
+	margin:5% 0 0% 5%;
+}
+#mygallery{
+	width: 90%;
+    margin: 0 auto;
+}
+#mygallery img{
+	border:2px solid #ccc;
 }
 
 header{
@@ -132,7 +264,7 @@ article{
 nav {
   	margin: 0 auto;
 	padding: 1%;
-	width: 84%;
+	width: 90%;
 	list-style-type: none;
   	display: -webkit-flex;
  	-webkit-flex-direction: row;
@@ -197,7 +329,6 @@ p{
 	font-size: 1em;
 	color:#707070;
 }
-
 section{
 	margin-top: 5%;
 	margin-bottom: 5%;
@@ -211,14 +342,7 @@ section{
 
 }
 
-.container-sm{
-	width: 90%;
-	height: 45%;
-	background-color: #f9f8f4;
-	display: block;
-	margin: 0 auto;
-	border:2px solid #ccc;
-}
+
 
 .title{
 	text-align: center;
