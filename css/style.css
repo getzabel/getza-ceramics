@@ -433,6 +433,15 @@ nav li{
     text-align: center;
     font-size: .8rem;
 }
+.container-sm {
+    width: 90%;
+    height: auto;
+    background-color: #f9f8f4;
+    margin: 0 auto;
+    border: 2px solid #ccc;
+    display: flex;
+    flex-direction: column;
+}
 .container-inside {
     width: 90%;
     height: 100%;
