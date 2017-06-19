@@ -363,7 +363,10 @@ footer{
 	font-size: .7em;
 }
 @media screen and (max-width: 600px) {
-
+.banner img{
+	width: 90%;
+	height: 30%;
+}
 .content{
 	display:flex;
 	flex-direction:column;
