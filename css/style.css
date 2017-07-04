@@ -10,9 +10,6 @@ light gray:#dddddd
 dark gray:#707070
 8e6336
 */
-
-
-
 body{
 	background-image: url("../images/seamless_paper_texture.png");
 	background-repeat: repeat;
@@ -20,15 +17,13 @@ body{
    	width: 100%;
    	height: 100%;
     position: absolute;
-    display:block;
-    
+    display:block;   
 }
 .wrapper{
 	width: 90%;
 	height: 100%;
 	margin: 0 auto;	
 }
-
 .container{
 	width: 90%;
 	height:auto;
@@ -38,7 +33,6 @@ body{
 	border:2px solid #ccc;
 	display: flex;
     flex-direction: column;
-   
 }
 .container-2{
 	width: 90%;
@@ -58,7 +52,6 @@ body{
 	display: block;
 	margin: 0 auto;
 	border:2px solid #ccc;
-
 }
 .container-sm{
 	width: 90%;
@@ -67,7 +60,6 @@ body{
 	display: block;
 	margin: 0 auto;
 	border:2px solid #ccc;
-
 }
 .content{
 	display:flex;
@@ -85,8 +77,7 @@ body{
 	overflow: hidden;
 	float: left;
 	margin-left: 5%;
-    margin-top: 5%
-
+    margin-top: 5%;
 }
 .banner img{
 	width: 90%;
@@ -96,7 +87,6 @@ body{
 	width: 90%;
 	border:1px #ccc solid;	
 }
-
 .collateral{
 	height: 50%;
 	width: 50%;
@@ -108,7 +98,6 @@ body{
 .businesscard-left{
 	float: left;
 	overflow: hidden;
-
 }
 .businesscard-right{
 	float:right;
@@ -168,14 +157,12 @@ header li:first-child{
 	margin-top: 1%;
 	flex-grow:2;
 }
-
 header li:nth-child(2), header li:nth-child(3){
 	margin-top: 2%;
 	opacity: .7;
+	margin-left: 1%;
 }
-
 header li:nth-child(2):hover, header li:nth-child(3):hover{opacity: 1;}
-
 header ul{
     list-style-type: none;
     margin: 0;
@@ -187,9 +174,7 @@ header ul{
     height: 85px;
     display: flex;
 }
-
 li:first-child{flex-grow:2;}
-
 li {
     float: left;
     margin-left: 5%;
@@ -198,7 +183,6 @@ li {
     text-decoration: none;
     align-self:center;
 }
-
 nav li:first-child{margin-left: 0;}
 a {
 	font-family: 'Comfortaa', cursive;
@@ -207,21 +191,17 @@ a {
     font-weight: bold;
 }
 a:hover{color:#dc6868;}
-
 .top-nav{
 	height: 130px;
 	display: flex;
     flex-direction: row;
 }
-
 .top-nav img{padding-top: 1%;}
-
 .banner{
 	display: flex;
     justify-content: center;
 	margin-bottom: 5%;
 }
-
 article{
 	width: 25%;
     float: left;
@@ -231,9 +211,7 @@ article{
     text-align: center;
 }
   nav > ul > li > a {text-decoration: none;}
-
 .border{ position:relative;}
-
 .border:hover::after{
     content:'';
     position:absolute;
@@ -243,9 +221,7 @@ article{
     bottom:-50% ;/*Change this to increase/decrease distance*/
     border-bottom: 2px solid #ff9999;     
 }
-
 /* Navigation */
-
 nav {
   	margin: 0 auto;
 	padding: 1%;
@@ -256,9 +232,7 @@ nav {
   	-webkit-justify-content: space-between;
   	-webkit-flex-wrap: wrap;
 }
-
 nav li:first-child:hover::after{border-bottom: none;}
-
 nav ul {
     list-style-type: none;
     margin-top:4%;
@@ -273,16 +247,12 @@ nav ul {
     width: 100%;
     justify-content: flex-end;
 }
-
 nav ul:nth-child(2){border-bottom: 2px solid #dddddd;}
-
 nav a {
 	display: inline-flex;
 	color: inherit;
 	text-decoration: none;
 }
-
-
 /* typography */
 h1{
 	font:cofortaa;
@@ -290,7 +260,6 @@ h1{
 	color:#724f2a;
 	font-family: 'Comfortaa', cursive;
 }
-
 h2{
 	text-align: center;
 	font-size: 1rem;
@@ -298,7 +267,6 @@ h2{
 	font-family: 'Comfortaa', cursive;
 	font-weight: bold;
 }
-
 h3{
 	text-align: left;
 	font-size: .8rem;
@@ -306,9 +274,7 @@ h3{
 	font-family: 'Comfortaa', cursive;
 	font-weight: bold;
 }
-
 footer p{text-align: left;}
-
 p{
 	font-family: 'Raleway', sans-serif;
 	font-size: 1em;
@@ -320,7 +286,6 @@ section{
 	width: 90%;
 	overflow: hidden;
 }
-
 .call-for-action{
 	float:left;
 	padding-left: 5%;
@@ -329,11 +294,8 @@ section{
 	text-align: center;
 	padding-top: 2%;
 }
-
 /* Button Styles*/
-
 .button{float:right;}
-
 .myButton {
 	background-color:#dc6868;
 	-moz-border-radius:13px;
@@ -347,14 +309,11 @@ section{
 	padding:20px 39px;
 	text-decoration:none;
 }
-
 .myButton:hover {background-color:#ff9999;}
-
 .myButton:active {
 	position:relative;
 	top:1px;
 }
-
 /*footer*/
 footer{
 	margin-top: 20%;
@@ -392,7 +351,6 @@ header{
 header ul{
 	width: 100%;
 	margin: 0 auto;
-
 }
 header li:first-child{margin-top: 1%;}
 
