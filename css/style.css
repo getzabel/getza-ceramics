@@ -211,7 +211,7 @@ article{
     margin-bottom: 10%;
     text-align: center;
 }
-  nav > ul > li > a {text-decoration: none;}
+nav > ul > li > a {text-decoration: none;}
 .border{ position:relative;}
 .border:hover::after{
     content:'';
