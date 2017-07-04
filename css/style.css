@@ -51,6 +51,7 @@ body{
 	background-color: #f9f8f4;
 	display: block;
 	margin: 0 auto;
+	padding-bottom: 5%;
 	border:2px solid #ccc;
 }
 .container-sm{
